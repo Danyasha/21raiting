@@ -42,12 +42,11 @@ token = os.environ['TOKEN']
 vk_session = vk_api.VkApi(token=token)
 vk = vk_session.get_api()
 longpoll = VkBotLongPoll(vk_session, group_id="179224993")
-users = getUsers()
 for event in longpoll.listen():
     if event.type == VkBotEventType.MESSAGE_NEW and event.obj.text and event.obj.text.split()[0].lower() == "!рейтинг":
         print(event.obj.user_id)
         if (len(event.obj.text.split()) >= 2):
             login = event.obj.text.split()[1].lower()
-            vk.messages.send(user_id = event.obj.from_id, message=findLogin(login, users), random_id = "0")
+            vk.messages.send(user_id = event.obj.from_id, message=findLogin(login, getUsers()), random_id = "0")
         else:
-            vk.messages.send(user_id = event.obj.from_id, message=getTop(users), random_id = "0")
+            vk.messages.send(user_id = event.obj.from_id, message=getTop(getUsers()), random_id = "0")

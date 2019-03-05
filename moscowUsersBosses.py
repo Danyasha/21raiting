@@ -22,4 +22,6 @@ def main():
     json.dump(raiting, fd, ensure_ascii=False, sort_keys=True, indent=4)
     fd.close()
 if __name__ == "__main__":
-    main()
+    while(1):
+        sleep(600)
+        main()
