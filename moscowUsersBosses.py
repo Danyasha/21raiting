@@ -4,9 +4,8 @@ from time import sleep
 import Intra42
 import os
 
-print("aaaa")
 SECRET = os.environ['SECRET']
-UID = os.environ['notUID']
+UID = os.environ['not_UID']
 
 def main():
     IntraPy = Intra42.Intra42(UID, SECRET)
