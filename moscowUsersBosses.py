@@ -21,7 +21,10 @@ def main():
     raiting = IntraPy.sortUsersByRaiting(raiting, addBeforeAfter = True)
     json.dump(raiting, fd, ensure_ascii=False, sort_keys=True, indent=4)
     fd.close()
+    print("updating done")
 if __name__ == "__main__":
     while(1):
-        sleep(600)
+        time = 25
+        print("Wait for ", time)
+        sleep(time)
         main()
