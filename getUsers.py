@@ -12,13 +12,13 @@ def main():
     raiting = []
     LastPage = IntraPy.cursus_users(getPage='last',filterBy = "campus_id", filterVal = "17")
     for i in range(0, LastPage + 1):
-        users = IntraPy.cursus_users(page=str(i), filterBy = "campus_id", filterVal = "17")
         print("page number:", i)
+        users = IntraPy.cursus_users(page=str(i), filterBy = "campus_id", filterVal = "17")
         for user in users:
             if user.get("end_at"):
                 raiting.append({'login':user.get('user').get('login'), 'level':round(user.get('level'), 2)})
-    fd = open("moscow.json", "w")
     raiting = IntraPy.sortUsersByRaiting(raiting, addBeforeAfter = True)
+    fd = open("moscow.json", "w")
     json.dump(raiting, fd, ensure_ascii=False, sort_keys=True, indent=4)
     fd.close()
     print("updating: done")

@@ -34,70 +34,78 @@
     {
         "after": 509,
         "before": 4,
+        "level": 7.27,
+        "users": [
+            "ltuffleb"
+        ]
+    },
+    {
+        "after": 508,
+        "before": 5,
         "level": 7.15,
         "users": [
             "hkuphal"
         ]
     },
     {
-        "after": 508,
-        "before": 5,
+        "after": 507,
+        "before": 6,
         "level": 7.13,
         "users": [
             "gscolera"
         ]
     },
     {
-        "after": 507,
-        "before": 6,
+        "after": 506,
+        "before": 7,
         "level": 7.09,
         "users": [
             "rrhaenys"
         ]
     },
     {
-        "after": 506,
-        "before": 7,
+        "after": 505,
+        "before": 8,
         "level": 7.06,
         "users": [
             "lbradama"
         ]
     },
     {
-        "after": 505,
-        "before": 8,
+        "after": 504,
+        "before": 9,
         "level": 6.7,
         "users": [
             "cmelara-"
         ]
     },
     {
-        "after": 504,
-        "before": 9,
+        "after": 503,
+        "before": 10,
         "level": 6.6,
         "users": [
             "ramory-l"
         ]
     },
     {
-        "after": 503,
-        "before": 10,
+        "after": 502,
+        "before": 11,
         "level": 6.49,
         "users": [
             "jroelle"
         ]
     },
     {
-        "after": 502,
-        "before": 11,
+        "after": 501,
+        "before": 12,
         "level": 6.47,
         "users": [
             "msnow-be"
         ]
     },
     {
-        "after": 500,
-        "before": 12,
+        "after": 499,
+        "before": 13,
         "level": 6.45,
         "users": [
             "rgyles",
@@ -105,51 +113,43 @@
         ]
     },
     {
-        "after": 499,
-        "before": 14,
+        "after": 498,
+        "before": 15,
         "level": 6.44,
         "users": [
             "ffahey"
         ]
     },
     {
-        "after": 498,
-        "before": 15,
+        "after": 497,
+        "before": 16,
         "level": 6.21,
         "users": [
             "gkessler"
         ]
     },
     {
-        "after": 497,
-        "before": 16,
+        "after": 496,
+        "before": 17,
         "level": 6.2,
         "users": [
             "fdibbert"
         ]
     },
     {
-        "after": 496,
-        "before": 17,
+        "after": 495,
+        "before": 18,
         "level": 6.18,
         "users": [
             "eloren-l"
         ]
     },
     {
-        "after": 495,
-        "before": 18,
+        "after": 494,
+        "before": 19,
         "level": 6.17,
         "users": [
             "twitting"
-        ]
-    },
-    {
-        "after": 494,
-        "before": 19,
-        "level": 6.14,
-        "users": [
-            "ltuffleb"
         ]
     },
     {
@@ -169,8 +169,16 @@
         ]
     },
     {
-        "after": 490,
+        "after": 491,
         "before": 22,
+        "level": 6.0,
+        "users": [
+            "vferry"
+        ]
+    },
+    {
+        "after": 489,
+        "before": 23,
         "level": 5.91,
         "users": [
             "lwyl-the",
@@ -178,8 +186,8 @@
         ]
     },
     {
-        "after": 488,
-        "before": 24,
+        "after": 487,
+        "before": 25,
         "level": 5.82,
         "users": [
             "gkoch",
@@ -187,80 +195,80 @@
         ]
     },
     {
-        "after": 487,
-        "before": 26,
+        "after": 486,
+        "before": 27,
         "level": 5.8,
         "users": [
             "lreznak-"
         ]
     },
     {
-        "after": 486,
-        "before": 27,
+        "after": 485,
+        "before": 28,
         "level": 5.78,
         "users": [
             "maheiden"
         ]
     },
     {
-        "after": 485,
-        "before": 28,
+        "after": 484,
+        "before": 29,
         "level": 5.76,
         "users": [
             "jlucas-l"
         ]
     },
     {
-        "after": 484,
-        "before": 29,
+        "after": 483,
+        "before": 30,
         "level": 5.73,
         "users": [
             "ebednar"
         ]
     },
     {
-        "after": 483,
-        "before": 30,
+        "after": 482,
+        "before": 31,
         "level": 5.68,
         "users": [
             "mnarbert"
         ]
     },
     {
-        "after": 482,
-        "before": 31,
+        "after": 481,
+        "before": 32,
         "level": 5.67,
         "users": [
             "rwalder-"
         ]
     },
     {
-        "after": 481,
-        "before": 32,
+        "after": 480,
+        "before": 33,
         "level": 5.66,
         "users": [
             "cschuste"
         ]
     },
     {
-        "after": 480,
-        "before": 33,
+        "after": 479,
+        "before": 34,
         "level": 5.65,
         "users": [
             "kkihn"
         ]
     },
     {
-        "after": 479,
-        "before": 34,
+        "after": 478,
+        "before": 35,
         "level": 5.63,
         "users": [
             "emayert"
         ]
     },
     {
-        "after": 477,
-        "before": 35,
+        "after": 476,
+        "before": 36,
         "level": 5.51,
         "users": [
             "ttreutel",
@@ -268,104 +276,112 @@
         ]
     },
     {
-        "after": 476,
-        "before": 37,
+        "after": 475,
+        "before": 38,
         "level": 5.49,
         "users": [
             "ghazrak-"
         ]
     },
     {
-        "after": 475,
-        "before": 38,
+        "after": 474,
+        "before": 39,
         "level": 5.47,
         "users": [
             "bbaelor-"
         ]
     },
     {
-        "after": 474,
-        "before": 39,
+        "after": 473,
+        "before": 40,
         "level": 5.46,
         "users": [
             "hharvey"
         ]
     },
     {
-        "after": 473,
-        "before": 40,
+        "after": 472,
+        "before": 41,
+        "level": 5.41,
+        "users": [
+            "lsandor-"
+        ]
+    },
+    {
+        "after": 471,
+        "before": 42,
         "level": 5.36,
         "users": [
             "udraugr-"
         ]
     },
     {
-        "after": 472,
-        "before": 41,
+        "after": 470,
+        "before": 43,
         "level": 5.34,
         "users": [
             "fbernier"
         ]
     },
     {
-        "after": 471,
-        "before": 42,
+        "after": 469,
+        "before": 44,
         "level": 5.33,
         "users": [
             "gdaniel"
         ]
     },
     {
-        "after": 470,
-        "before": 43,
+        "after": 468,
+        "before": 45,
         "level": 5.26,
         "users": [
             "dmorgil"
         ]
     },
     {
-        "after": 469,
-        "before": 44,
+        "after": 467,
+        "before": 46,
         "level": 5.25,
         "users": [
             "tsimonis"
         ]
     },
     {
-        "after": 468,
-        "before": 45,
+        "after": 466,
+        "before": 47,
+        "level": 5.24,
+        "users": [
+            "sbednar"
+        ]
+    },
+    {
+        "after": 465,
+        "before": 48,
         "level": 5.08,
         "users": [
             "bharrold"
         ]
     },
     {
-        "after": 467,
-        "before": 46,
+        "after": 464,
+        "before": 49,
         "level": 4.95,
         "users": [
             "mbartole"
         ]
     },
     {
-        "after": 466,
-        "before": 47,
-        "level": 4.93,
-        "users": [
-            "lsandor-"
-        ]
-    },
-    {
-        "after": 465,
-        "before": 48,
+        "after": 463,
+        "before": 50,
         "level": 4.87,
         "users": [
             "jfrankly"
         ]
     },
     {
-        "after": 461,
-        "before": 49,
+        "after": 459,
+        "before": 51,
         "level": 4.85,
         "users": [
             "vmcclure",
@@ -375,8 +391,8 @@
         ]
     },
     {
-        "after": 459,
-        "before": 53,
+        "after": 457,
+        "before": 55,
         "level": 4.84,
         "users": [
             "dzboncak",
@@ -384,16 +400,17 @@
         ]
     },
     {
-        "after": 458,
-        "before": 55,
+        "after": 455,
+        "before": 57,
         "level": 4.83,
         "users": [
+            "mmcclure",
             "fmacgyve"
         ]
     },
     {
-        "after": 455,
-        "before": 56,
+        "after": 452,
+        "before": 59,
         "level": 4.81,
         "users": [
             "ehugh-be",
@@ -402,24 +419,24 @@
         ]
     },
     {
-        "after": 454,
-        "before": 59,
+        "after": 451,
+        "before": 62,
         "level": 4.8,
         "users": [
             "jritchie"
         ]
     },
     {
-        "after": 453,
-        "before": 60,
+        "after": 450,
+        "before": 63,
         "level": 4.79,
         "users": [
             "rschuppe"
         ]
     },
     {
-        "after": 451,
-        "before": 61,
+        "after": 448,
+        "before": 64,
         "level": 4.77,
         "users": [
             "srafe",
@@ -427,33 +444,25 @@
         ]
     },
     {
-        "after": 450,
-        "before": 63,
+        "after": 447,
+        "before": 66,
         "level": 4.74,
         "users": [
             "tmann"
         ]
     },
     {
-        "after": 449,
-        "before": 64,
-        "level": 4.72,
-        "users": [
-            "sbednar"
-        ]
-    },
-    {
-        "after": 447,
-        "before": 65,
+        "after": 445,
+        "before": 67,
         "level": 4.71,
         "users": [
             "anorjen",
-            "bashiri"
+            "bbashiri"
         ]
     },
     {
-        "after": 445,
-        "before": 67,
+        "after": 443,
+        "before": 69,
         "level": 4.7,
         "users": [
             "jlesch",
@@ -461,8 +470,8 @@
         ]
     },
     {
-        "after": 443,
-        "before": 69,
+        "after": 441,
+        "before": 71,
         "level": 4.68,
         "users": [
             "hwispmot",
@@ -470,8 +479,8 @@
         ]
     },
     {
-        "after": 441,
-        "before": 71,
+        "after": 439,
+        "before": 73,
         "level": 4.67,
         "users": [
             "jwinthei",
@@ -479,26 +488,27 @@
         ]
     },
     {
-        "after": 440,
-        "before": 73,
+        "after": 438,
+        "before": 75,
         "level": 4.66,
         "users": [
             "dspider-"
         ]
     },
     {
-        "after": 437,
-        "before": 74,
+        "after": 434,
+        "before": 76,
         "level": 4.65,
         "users": [
+            "srolland",
             "rafalmer",
             "hfrankly",
             "afeest"
         ]
     },
     {
-        "after": 435,
-        "before": 77,
+        "after": 432,
+        "before": 80,
         "level": 4.64,
         "users": [
             "sdurgan",
@@ -506,121 +516,128 @@
         ]
     },
     {
-        "after": 433,
-        "before": 79,
+        "after": 431,
+        "before": 82,
         "level": 4.63,
         "users": [
-            "vferry",
             "draynor"
         ]
     },
     {
-        "after": 432,
-        "before": 81,
+        "after": 430,
+        "before": 83,
+        "level": 4.61,
+        "users": [
+            "glormell"
+        ]
+    },
+    {
+        "after": 429,
+        "before": 84,
         "level": 4.51,
         "users": [
             "vrestles"
         ]
     },
     {
-        "after": 431,
-        "before": 82,
+        "after": 428,
+        "before": 85,
         "level": 4.48,
         "users": [
             "mmraz"
         ]
     },
     {
-        "after": 430,
-        "before": 83,
+        "after": 427,
+        "before": 86,
         "level": 4.47,
         "users": [
             "wlister"
         ]
     },
     {
-        "after": 429,
-        "before": 84,
+        "after": 426,
+        "before": 87,
         "level": 4.39,
         "users": [
             "jblack-b"
         ]
     },
     {
-        "after": 428,
-        "before": 85,
+        "after": 425,
+        "before": 88,
         "level": 4.36,
         "users": [
             "thorker"
         ]
     },
     {
-        "after": 427,
-        "before": 86,
+        "after": 424,
+        "before": 89,
         "level": 4.34,
         "users": [
             "bfalmer-"
         ]
     },
     {
-        "after": 426,
-        "before": 87,
+        "after": 423,
+        "before": 90,
         "level": 4.33,
         "users": [
             "ejommy"
         ]
     },
     {
-        "after": 425,
-        "before": 88,
+        "after": 422,
+        "before": 91,
         "level": 4.32,
         "users": [
             "ajaehaer"
         ]
     },
     {
-        "after": 424,
-        "before": 89,
+        "after": 421,
+        "before": 92,
         "level": 4.31,
         "users": [
             "zjeyne-l"
         ]
     },
     {
-        "after": 423,
-        "before": 90,
+        "after": 420,
+        "before": 93,
         "level": 4.29,
         "users": [
             "jjacobso"
         ]
     },
     {
-        "after": 422,
-        "before": 91,
+        "after": 419,
+        "before": 94,
         "level": 4.28,
         "users": [
             "dwiegand"
         ]
     },
     {
-        "after": 421,
-        "before": 92,
+        "after": 418,
+        "before": 95,
         "level": 4.27,
         "users": [
             "narchiba"
         ]
     },
     {
-        "after": 420,
-        "before": 93,
+        "after": 417,
+        "before": 96,
         "level": 4.25,
         "users": [
             "bwynton-"
         ]
     },
     {
-        "after": 416,
-        "before": 94,
+        "after": 413,
+        "before": 97,
         "level": 4.24,
         "users": [
             "wballaba",
@@ -630,24 +647,24 @@
         ]
     },
     {
-        "after": 415,
-        "before": 98,
+        "after": 412,
+        "before": 101,
         "level": 4.23,
         "users": [
             "edraugr-"
         ]
     },
     {
-        "after": 414,
-        "before": 99,
+        "after": 411,
+        "before": 102,
         "level": 4.22,
         "users": [
             "ggwin-go"
         ]
     },
     {
-        "after": 412,
-        "before": 100,
+        "after": 409,
+        "before": 103,
         "level": 4.21,
         "users": [
             "mwunsch",
@@ -655,8 +672,8 @@
         ]
     },
     {
-        "after": 410,
-        "before": 102,
+        "after": 407,
+        "before": 105,
         "level": 4.19,
         "users": [
             "rymuller",
@@ -664,18 +681,17 @@
         ]
     },
     {
-        "after": 407,
-        "before": 104,
+        "after": 405,
+        "before": 107,
         "level": 4.17,
         "users": [
             "lmaron-g",
-            "mmcclure",
             "masprigg"
         ]
     },
     {
-        "after": 402,
-        "before": 107,
+        "after": 400,
+        "before": 109,
         "level": 4.16,
         "users": [
             "rcotter-",
@@ -686,25 +702,26 @@
         ]
     },
     {
-        "after": 401,
-        "before": 112,
+        "after": 399,
+        "before": 114,
         "level": 4.15,
         "users": [
             "mskiles"
         ]
     },
     {
-        "after": 399,
-        "before": 113,
+        "after": 396,
+        "before": 115,
         "level": 4.14,
         "users": [
             "ahugh",
+            "lcutjack",
             "widraugr"
         ]
     },
     {
-        "after": 396,
-        "before": 115,
+        "after": 393,
+        "before": 118,
         "level": 4.13,
         "users": [
             "krakharo",
@@ -713,58 +730,49 @@
         ]
     },
     {
-        "after": 395,
-        "before": 118,
+        "after": 392,
+        "before": 121,
         "level": 4.12,
         "users": [
             "hgysella"
         ]
     },
     {
-        "after": 392,
-        "before": 119,
+        "after": 390,
+        "before": 122,
         "level": 4.1,
         "users": [
-            "srolland",
             "hgreenfe",
             "fschille"
         ]
     },
     {
-        "after": 391,
-        "before": 122,
+        "after": 389,
+        "before": 124,
         "level": 4.09,
         "users": [
             "wclayton"
         ]
     },
     {
-        "after": 390,
-        "before": 123,
+        "after": 388,
+        "before": 125,
         "level": 4.08,
         "users": [
             "sbruen"
         ]
     },
     {
-        "after": 389,
-        "before": 124,
-        "level": 4.06,
-        "users": [
-            "glormell"
-        ]
-    },
-    {
-        "after": 388,
-        "before": 125,
+        "after": 387,
+        "before": 126,
         "level": 4.05,
         "users": [
             "afalmer-"
         ]
     },
     {
-        "after": 386,
-        "before": 126,
+        "after": 385,
+        "before": 127,
         "level": 4.01,
         "users": [
             "ksnow-be",
@@ -772,8 +780,8 @@
         ]
     },
     {
-        "after": 384,
-        "before": 128,
+        "after": 383,
+        "before": 129,
         "level": 4.0,
         "users": [
             "ajon-hol",
@@ -781,24 +789,24 @@
         ]
     },
     {
-        "after": 383,
-        "before": 130,
+        "after": 382,
+        "before": 131,
         "level": 3.99,
         "users": [
             "emeha"
         ]
     },
     {
-        "after": 382,
-        "before": 131,
+        "after": 381,
+        "before": 132,
         "level": 3.94,
         "users": [
             "astanton"
         ]
     },
     {
-        "after": 380,
-        "before": 132,
+        "after": 379,
+        "before": 133,
         "level": 3.93,
         "users": [
             "crice",
@@ -806,32 +814,32 @@
         ]
     },
     {
-        "after": 379,
-        "before": 134,
+        "after": 378,
+        "before": 135,
         "level": 3.92,
         "users": [
             "efeeney"
         ]
     },
     {
-        "after": 378,
-        "before": 135,
+        "after": 377,
+        "before": 136,
         "level": 3.89,
         "users": [
             "jdesmond"
         ]
     },
     {
-        "after": 377,
-        "before": 136,
+        "after": 376,
+        "before": 137,
         "level": 3.86,
         "users": [
             "rtroll"
         ]
     },
     {
-        "after": 374,
-        "before": 137,
+        "after": 373,
+        "before": 138,
         "level": 3.68,
         "users": [
             "bparker",
@@ -840,8 +848,8 @@
         ]
     },
     {
-        "after": 372,
-        "before": 140,
+        "after": 371,
+        "before": 141,
         "level": 3.67,
         "users": [
             "cmanfred",
@@ -849,8 +857,8 @@
         ]
     },
     {
-        "after": 370,
-        "before": 142,
+        "after": 369,
+        "before": 143,
         "level": 3.66,
         "users": [
             "rfunk",
@@ -858,16 +866,16 @@
         ]
     },
     {
-        "after": 369,
-        "before": 144,
+        "after": 368,
+        "before": 145,
         "level": 3.65,
         "users": [
             "ghalvors"
         ]
     },
     {
-        "after": 367,
-        "before": 145,
+        "after": 366,
+        "before": 146,
         "level": 3.64,
         "users": [
             "efriesen",
@@ -875,32 +883,32 @@
         ]
     },
     {
-        "after": 366,
-        "before": 147,
+        "after": 365,
+        "before": 148,
         "level": 3.62,
         "users": [
             "dgrady"
         ]
     },
     {
-        "after": 365,
-        "before": 148,
+        "after": 364,
+        "before": 149,
         "level": 3.61,
         "users": [
             "chorange"
         ]
     },
     {
-        "after": 364,
-        "before": 149,
+        "after": 363,
+        "before": 150,
         "level": 3.59,
         "users": [
             "jdaniel"
         ]
     },
     {
-        "after": 361,
-        "before": 150,
+        "after": 360,
+        "before": 151,
         "level": 3.58,
         "users": [
             "gleonett",
@@ -909,8 +917,8 @@
         ]
     },
     {
-        "after": 360,
-        "before": 153,
+        "after": 359,
+        "before": 154,
         "level": 3.57,
         "users": [
             "breolson"
@@ -918,13 +926,12 @@
     },
     {
         "after": 356,
-        "before": 154,
+        "before": 155,
         "level": 3.56,
         "users": [
             "jziemann",
             "chermist",
-            "gkshleri",
-            "lcutjack"
+            "gkshleri"
         ]
     },
     {
@@ -938,10 +945,11 @@
         ]
     },
     {
-        "after": 343,
+        "after": 341,
         "before": 161,
         "level": 3.52,
         "users": [
+            "vgerold-",
             "uvarly",
             "ergottli",
             "sstannis",
@@ -949,14 +957,15 @@
             "ggerardy",
             "gstiedem",
             "hpowlows",
+            "ttroll",
             "btorp",
             "fratke",
             "hewisp"
         ]
     },
     {
-        "after": 335,
-        "before": 171,
+        "after": 333,
+        "before": 173,
         "level": 3.51,
         "users": [
             "jschille",
@@ -970,8 +979,8 @@
         ]
     },
     {
-        "after": 328,
-        "before": 179,
+        "after": 326,
+        "before": 181,
         "level": 3.5,
         "users": [
             "lnolan",
@@ -984,13 +993,14 @@
         ]
     },
     {
-        "after": 318,
-        "before": 186,
+        "after": 315,
+        "before": 188,
         "level": 3.49,
         "users": [
             "kfalia-f",
             "zokon",
             "dtreutel",
+            "mbalon-s",
             "hrice",
             "nprosacc",
             "arunte",
@@ -1001,16 +1011,16 @@
         ]
     },
     {
-        "after": 317,
-        "before": 196,
+        "after": 314,
+        "before": 199,
         "level": 3.48,
         "users": [
             "fwyman"
         ]
     },
     {
-        "after": 311,
-        "before": 197,
+        "after": 308,
+        "before": 200,
         "level": 3.47,
         "users": [
             "kbethany",
@@ -1022,8 +1032,8 @@
         ]
     },
     {
-        "after": 308,
-        "before": 203,
+        "after": 305,
+        "before": 206,
         "level": 3.46,
         "users": [
             "bbear",
@@ -1032,8 +1042,8 @@
         ]
     },
     {
-        "after": 306,
-        "before": 206,
+        "after": 303,
+        "before": 209,
         "level": 3.45,
         "users": [
             "jcartwri",
@@ -1041,8 +1051,8 @@
         ]
     },
     {
-        "after": 302,
-        "before": 208,
+        "after": 299,
+        "before": 211,
         "level": 3.44,
         "users": [
             "bmiklaz",
@@ -1052,8 +1062,8 @@
         ]
     },
     {
-        "after": 299,
-        "before": 212,
+        "after": 296,
+        "before": 215,
         "level": 3.43,
         "users": [
             "epouros",
@@ -1062,8 +1072,8 @@
         ]
     },
     {
-        "after": 297,
-        "before": 215,
+        "after": 294,
+        "before": 218,
         "level": 3.42,
         "users": [
             "mferny",
@@ -1071,43 +1081,42 @@
         ]
     },
     {
-        "after": 296,
-        "before": 217,
+        "after": 293,
+        "before": 220,
         "level": 3.4,
         "users": [
             "hroberts"
         ]
     },
     {
-        "after": 295,
-        "before": 218,
+        "after": 292,
+        "before": 221,
         "level": 3.37,
         "users": [
             "cdraugr-"
         ]
     },
     {
-        "after": 294,
-        "before": 219,
+        "after": 291,
+        "before": 222,
         "level": 3.36,
         "users": [
             "ndremora"
         ]
     },
     {
-        "after": 293,
-        "before": 220,
+        "after": 290,
+        "before": 223,
         "level": 3.33,
         "users": [
             "tdontos-"
         ]
     },
     {
-        "after": 276,
-        "before": 221,
+        "after": 275,
+        "before": 224,
         "level": 2.91,
         "users": [
-            "vgerold-",
             "mroland-",
             "bhugh-be",
             "dbreiten",
@@ -1117,7 +1126,6 @@
             "pcorlys-",
             "jmartyn-",
             "elchrist",
-            "ttroll",
             "fdaryn-h",
             "wgueren",
             "jblue-da",
@@ -1127,8 +1135,8 @@
         ]
     },
     {
-        "after": 263,
-        "before": 238,
+        "after": 262,
+        "before": 239,
         "level": 2.89,
         "users": [
             "kbatz",
@@ -1147,8 +1155,8 @@
         ]
     },
     {
-        "after": 249,
-        "before": 251,
+        "after": 248,
+        "before": 252,
         "level": 2.88,
         "users": [
             "fbhakaz-",
@@ -1168,8 +1176,8 @@
         ]
     },
     {
-        "after": 239,
-        "before": 265,
+        "after": 238,
+        "before": 266,
         "level": 2.87,
         "users": [
             "mnienow",
@@ -1186,11 +1194,10 @@
     },
     {
         "after": 233,
-        "before": 275,
+        "before": 276,
         "level": 2.86,
         "users": [
             "bturcott",
-            "mbalon-s",
             "ldonnor-",
             "lharlen-",
             "jrobin-h",
@@ -1296,26 +1303,27 @@
         ]
     },
     {
-        "after": 202,
+        "after": 201,
         "before": 309,
         "level": 2.74,
         "users": [
             "dwisoky",
+            "eschoen",
             "jhoppe",
             "odale-dr"
         ]
     },
     {
-        "after": 201,
-        "before": 312,
+        "after": 200,
+        "before": 313,
         "level": 2.72,
         "users": [
             "lbrown-b"
         ]
     },
     {
-        "after": 200,
-        "before": 313,
+        "after": 199,
+        "before": 314,
         "level": 2.7,
         "users": [
             "jmacgyve"
@@ -1323,7 +1331,15 @@
     },
     {
         "after": 198,
-        "before": 314,
+        "before": 315,
+        "level": 2.66,
+        "users": [
+            "fshade"
+        ]
+    },
+    {
+        "after": 196,
+        "before": 316,
         "level": 2.64,
         "users": [
             "hkuhic",
@@ -1331,16 +1347,16 @@
         ]
     },
     {
-        "after": 197,
-        "before": 316,
+        "after": 195,
+        "before": 318,
         "level": 2.61,
         "users": [
             "qclubfoo"
         ]
     },
     {
-        "after": 177,
-        "before": 317,
+        "after": 175,
+        "before": 319,
         "level": 2.22,
         "users": [
             "astamm",
@@ -1366,8 +1382,8 @@
         ]
     },
     {
-        "after": 152,
-        "before": 337,
+        "after": 150,
+        "before": 339,
         "level": 2.2,
         "users": [
             "jphilip-",
@@ -1398,16 +1414,16 @@
         ]
     },
     {
-        "after": 151,
-        "before": 362,
+        "after": 149,
+        "before": 364,
         "level": 2.19,
         "users": [
             "dwdraugr"
         ]
     },
     {
-        "after": 144,
-        "before": 363,
+        "after": 142,
+        "before": 365,
         "level": 2.18,
         "users": [
             "adoyle",
@@ -1420,8 +1436,8 @@
         ]
     },
     {
-        "after": 136,
-        "before": 370,
+        "after": 134,
+        "before": 372,
         "level": 2.17,
         "users": [
             "ohelly",
@@ -1435,8 +1451,8 @@
         ]
     },
     {
-        "after": 134,
-        "before": 378,
+        "after": 132,
+        "before": 380,
         "level": 2.16,
         "users": [
             "sstark",
@@ -1444,8 +1460,8 @@
         ]
     },
     {
-        "after": 129,
-        "before": 380,
+        "after": 127,
+        "before": 382,
         "level": 2.15,
         "users": [
             "jhaag",
@@ -1456,16 +1472,16 @@
         ]
     },
     {
-        "after": 128,
-        "before": 385,
+        "after": 126,
+        "before": 387,
         "level": 2.14,
         "users": [
             "mrolfe"
         ]
     },
     {
-        "after": 126,
-        "before": 386,
+        "after": 124,
+        "before": 388,
         "level": 2.13,
         "users": [
             "dtoy",
@@ -1473,24 +1489,24 @@
         ]
     },
     {
-        "after": 125,
-        "before": 388,
+        "after": 123,
+        "before": 390,
         "level": 2.12,
         "users": [
             "sfalia-f"
         ]
     },
     {
-        "after": 124,
-        "before": 389,
+        "after": 122,
+        "before": 391,
         "level": 2.11,
         "users": [
             "waddam"
         ]
     },
     {
-        "after": 122,
-        "before": 390,
+        "after": 120,
+        "before": 392,
         "level": 2.1,
         "users": [
             "wjoy-hil",
@@ -1498,56 +1514,47 @@
         ]
     },
     {
-        "after": 121,
-        "before": 392,
+        "after": 119,
+        "before": 394,
         "level": 2.09,
         "users": [
             "bconwy"
         ]
     },
     {
-        "after": 120,
-        "before": 393,
+        "after": 118,
+        "before": 395,
         "level": 2.08,
         "users": [
             "vminisa-"
         ]
     },
     {
-        "after": 119,
-        "before": 394,
+        "after": 117,
+        "before": 396,
         "level": 2.06,
         "users": [
             "gwaymar-"
         ]
     },
     {
-        "after": 113,
-        "before": 395,
+        "after": 112,
+        "before": 397,
         "level": 2.05,
         "users": [
             "kreilly",
             "blanna",
             "agrigg",
             "dkyle",
-            "eschoen",
             "aeklein"
-        ]
-    },
-    {
-        "after": 112,
-        "before": 401,
-        "level": 2.01,
-        "users": [
-            "bdudley"
         ]
     },
     {
         "after": 111,
         "before": 402,
-        "level": 1.96,
+        "level": 2.01,
         "users": [
-            "fshade"
+            "bdudley"
         ]
     },
     {
