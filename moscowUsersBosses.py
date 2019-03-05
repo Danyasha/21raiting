@@ -5,8 +5,8 @@ import Intra42
 import os
 from boto.s3.connection import S3Connection
 
-UID = S3Connection(os.environ['UID'])
-SECRET = S3Connection(os.environ['SECRET'])
+UID = os.environ['UID']
+SECRET = os.environ['SECRET']
 
 def main():
     IntraPy = Intra42.Intra42(UID, SECRET)
