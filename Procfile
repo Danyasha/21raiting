@@ -1,1 +1,2 @@
-bot: python3 moscowUsersBosses.py & python3 bot.py
+bot: python3 moscowUsersBosses.py
+bot2: python3 bot.py
