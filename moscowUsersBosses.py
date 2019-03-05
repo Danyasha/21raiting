@@ -6,7 +6,7 @@ import os
 
 print("aaaa")
 SECRET = os.environ['SECRET']
-UID = os.environ['UID']
+UID = os.environ['notUID']
 
 def main():
     IntraPy = Intra42.Intra42(UID, SECRET)
