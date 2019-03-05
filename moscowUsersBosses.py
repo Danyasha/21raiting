@@ -5,8 +5,8 @@ import Intra42
 import os
 
 print("aaaa")
-UID = os.environ['UID']
 SECRET = os.environ['SECRET']
+UID = os.environ['UID']
 
 def main():
     IntraPy = Intra42.Intra42(UID, SECRET)
