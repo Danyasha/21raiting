@@ -3,7 +3,6 @@ import json
 from time import sleep
 import Intra42
 import os
-from boto.s3.connection import S3Connection
 
 print("aaaa")
 UID = os.environ['UID']
@@ -15,7 +14,6 @@ def main():
     LastPage = IntraPy.cursus_users(getPage='last',filterBy = "campus_id", filterVal = "17")
     for i in range(0, LastPage + 1):
         users = IntraPy.cursus_users(page=str(i), filterBy = "campus_id", filterVal = "17")
-        k = 0
         print(i)
         for user in users:
             if user.get("end_at"):
