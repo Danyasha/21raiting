@@ -1,1 +1,1 @@
-bot: python3 moscowUsersBosses.py && python3 topladdera228.py
+bot: python3 moscowUsersBosses.py && python3 RaitingBot.py
