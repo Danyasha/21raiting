@@ -5,7 +5,7 @@ import Intra42
 import os
 from boto.s3.connection import S3Connection
 
-
+print("aaaa")
 UID = os.environ['UID']
 SECRET = os.environ['SECRET']
 
