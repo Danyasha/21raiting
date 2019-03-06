@@ -5,7 +5,11 @@ from vk_api.bot_longpoll import VkBotLongPoll, VkBotEventType
 import os
 
 def getUsers():
-    fd = open("moscow.json", 'r')
+    try:
+        fd = open("moscow.json", 'r')
+    except FileNotFoundError:
+        time.sleep(2)
+        return (getUsers())
     users = json.load(fd)
     fd.close()
     return(users)
